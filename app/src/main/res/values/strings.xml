@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geography-APP</string>
+    <string-array name="countryNames">
+        <item>India</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>USA</item>
+        <item>England</item>
+    </string-array>
+</resources>
